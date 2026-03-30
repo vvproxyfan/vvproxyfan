@@ -1,4 +1,8 @@
-socks5://5.42.103.183:1080
+#profile-title: base64:PF4tXy1ePg==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=7952431931
+#support-url: https://github.com/vvproxyfan/vvproxyfan
+#profile-web-page-url: https://github.com/vvproxyfan/vvproxyfan
 http://95.213.217.168:52004
 http://147.161.239.240:8800
 socks5://5.75.202.83:10000
